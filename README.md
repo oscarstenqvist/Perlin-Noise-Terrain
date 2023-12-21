@@ -19,8 +19,7 @@ noise pixel is created. The final step is to use fractional brownian motion to g
 more detailed noise. This is done through calling the perlin noise function
 several times, while each time changing the x and y values by multiplying them
 with a decreasing freequency. By then adding the value of each iteration to the
-final value more detailed noise is created. This is done for each grid, and the 
-number of grids can be changed.
+final value more detailed noise is created. This is done for each grid.
 
 # Terrain coloring
 Each pixel has a value of 0-255. This can be seen as a hightmap where
