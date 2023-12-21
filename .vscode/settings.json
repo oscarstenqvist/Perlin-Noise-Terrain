@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.js": "javascript",
+        "*.pl": "prolog",
+        "stdio.h": "c",
+        "math.h": "c",
+        "time.h": "c",
+        "ios": "cpp",
+        "stdlib.h": "c"
+    }
+}
