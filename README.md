@@ -23,5 +23,5 @@ final value more detailed noise is created. This is done for each grid.
 
 # Terrain coloring
 Each pixel has a value of 0-255. This can be seen as a hightmap where
-the lowest value is 0 and the highest is 255. By thresholds for each type of terrain, 
+the lowest value is 0 and the highest is 255. By setting thresholds for each type of terrain, 
 the final result is generated.
